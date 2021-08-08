@@ -1,0 +1,12 @@
+201130 181107.103|CONFIG|qtp934275857-58|setFileHandlers|Now logging to /usr/local/pc2/logs directory.
+201130 181107.104|INFO|qtp934275857-58|info|
+201130 181107.104|INFO|qtp934275857-58|info|Version 9 () Java ver 11.0.9.1 build  Linux 5.4.0-1025-aws (amd64) 
+201130 181107.104|INFO|qtp934275857-58|startLog|Working directory is /usr/local/pc2
+201130 181107.104|INFO|qtp934275857-58|startLog|Process id is 47921@scoreboard3
+201130 181107.105|INFO|qtp934275857-58|start|Starting ConnectionManager...
+201130 181107.110|INFO|qtp934275857-58|start|Started ConnectionManager
+201130 181107.111|INFO|qtp934275857-58|setClientServerAndPort|INIFile File location: file:/usr/local/pc2/pc2v9.ini
+201130 181107.111|INFO|qtp934275857-58|setClientServerAndPort|setClientServerAndPort 10.0.3.175 parsed as 10.0.3.175 port 50002
+201130 181107.111|INFO|qtp934275857-58|info|Contacting server at 10.0.3.175:50002
+201130 181107.111|INFO|qtp934275857-58|connectToMyServer|Connecting to 10.0.3.175:50002
+201130 181107.114|INFO|Thread-93|receiveUnencrypted|receiveUnencrypted(TransportWrapper, ConnectionHandlerID=Socket[addr=/10.0.3.175,port=50002,localport=57482]--5801407220241082065)

@@ -1,0 +1,17 @@
+201130 165730.477|CONFIG|main|setFileHandlers|Now logging to /usr/local/pc2/logs directory.
+201130 165730.499|FINE|main|verifyPC2ScoreboardLogin|Verifying PC2 scoreboard account login...
+201130 165730.504|FINE|main|verifyPC2ScoreboardLogin|Attempting to login to PC2 scoreboard account 'scoreboard5'
+201130 165731.158|FINE|main|verifyPC2ScoreboardLogin|Successfully logged in to PC2 scoreboard account
+201130 165731.160|INFO|main|startServer|Constructing Jetty service handlers
+201130 165731.318|INFO|main|startServer|Creating Jetty server
+201130 165731.329|INFO|main|startServer|Installing service handlers in Jetty
+201130 165731.329|INFO|main|startServer|Starting Jetty server
+201130 171853.769|CONFIG|main|setFileHandlers|Now logging to /usr/local/pc2/logs directory.
+201130 171853.787|FINE|main|verifyPC2ScoreboardLogin|Verifying PC2 scoreboard account login...
+201130 171853.791|FINE|main|verifyPC2ScoreboardLogin|Attempting to login to PC2 scoreboard account 'scoreboard5'
+201130 171854.441|FINE|main|verifyPC2ScoreboardLogin|Successfully logged in to PC2 scoreboard account
+201130 171854.443|INFO|main|startServer|Constructing Jetty service handlers
+201130 171854.610|INFO|main|startServer|Creating Jetty server
+201130 171854.621|INFO|main|startServer|Installing service handlers in Jetty
+201130 171854.621|INFO|main|startServer|Starting Jetty server
+201130 171856.048|SEVERE|main|startServer|Exception during WTI server startup: java.io.IOException: Failed to bind to 0.0.0.0/0.0.0.0:8080

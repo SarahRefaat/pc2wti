@@ -1,0 +1,11 @@
+201224 152756.301|CONFIG|main|setFileHandlers|Now logging to /usr/local/pc2/logs directory.
+201224 152756.302|INFO|main|info|
+201224 152756.306|INFO|main|info|Version 9 () Java ver 11.0.9.1 build  Linux 5.4.0-1029-aws (amd64) 
+201224 152756.306|INFO|main|startLog|Working directory is /usr/local/pc2
+201224 152756.360|INFO|main|startLog|Process id is 584@scoreboard3
+201224 152756.360|INFO|main|start|Starting ConnectionManager...
+201224 152756.467|INFO|main|start|Started ConnectionManager
+201224 152756.473|INFO|main|setClientServerAndPort|INIFile File location: file:/usr/local/pc2/pc2v9.ini
+201224 152756.473|INFO|main|setClientServerAndPort|setClientServerAndPort 10.0.3.175 parsed as 10.0.3.175 port 50002
+201224 152756.474|INFO|main|info|Contacting server at 10.0.3.175:50002
+201224 152756.474|INFO|main|connectToMyServer|Connecting to 10.0.3.175:50002

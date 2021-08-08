@@ -1,0 +1,11 @@
+201129 185536.436|CONFIG|qtp1823409783-18|setFileHandlers|Now logging to /usr/local/pc2/logs directory.
+201129 185536.436|INFO|qtp1823409783-18|info|
+201129 185536.436|INFO|qtp1823409783-18|info|Version 9 () Java ver 11.0.8 build  Linux 5.4.0-1025-aws (amd64) 
+201129 185536.436|INFO|qtp1823409783-18|startLog|Working directory is /usr/local/pc2
+201129 185536.436|INFO|qtp1823409783-18|startLog|Process id is 15909@scoreboard3
+201129 185536.437|INFO|qtp1823409783-18|start|Starting ConnectionManager...
+201129 185536.438|INFO|qtp1823409783-18|start|Started ConnectionManager
+201129 185536.439|INFO|qtp1823409783-18|setClientServerAndPort|INIFile File location: file:/usr/local/pc2/pc2v9.ini
+201129 185536.439|INFO|qtp1823409783-18|setClientServerAndPort|setClientServerAndPort 10.0.3.175 parsed as 10.0.3.175 port 50002
+201129 185536.439|INFO|qtp1823409783-18|info|Contacting server at 10.0.3.175:50002
+201129 185536.439|INFO|qtp1823409783-18|connectToMyServer|Connecting to 10.0.3.175:50002

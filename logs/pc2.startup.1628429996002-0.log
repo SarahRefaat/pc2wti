@@ -1,0 +1,32 @@
+210808 133956.004|CONFIG|main|setFileHandlers|Now logging to /usr/local/pc2/logs directory.
+210808 133956.005|INFO|main|info|
+210808 133956.008|INFO|main|info|Version 9 () Java ver 11.0.9.1 build  Linux 5.4.0-1029-aws (amd64) 
+210808 133956.009|INFO|main|startLog|Working directory is /usr/local/pc2
+210808 133956.094|INFO|main|startLog|Process id is 578@ip-10-0-1-174
+210808 133956.095|INFO|main|start|Starting ConnectionManager...
+210808 133956.632|INFO|main|start|Started ConnectionManager
+210808 133956.645|INFO|main|setClientServerAndPort|INIFile File location: file:/usr/local/pc2/pc2v9.ini
+210808 133956.648|INFO|main|setClientServerAndPort|setClientServerAndPort 10.0.3.175 parsed as 10.0.3.175 port 50002
+210808 133956.654|INFO|main|info|Contacting server at 10.0.3.175:50002
+210808 133956.661|INFO|main|connectToMyServer|Connecting to 10.0.3.175:50002
+210808 134206.146|INFO|main|<init>|IO Exception:10.0.3.175
+210808 134206.161|INFO|main|connectToMyServer|Could not ConnectToMyServer()
+210808 134206.164|INFO|main|start|Exception contacting my server 
+|edu.csus.ecs.pc2.core.transport.TransportException: Connection timed out (Connection timed out)
+|    at edu.csus.ecs.pc2.core.transport.TransportManager.connectToMyServer (TransportManager.java:198)
+|    at edu.csus.ecs.pc2.core.transport.connection.ConnectionManager.connectToMyServer (ConnectionManager.java:100)
+|    at edu.csus.ecs.pc2.core.InternalController.start (InternalController.java:2895)
+|    at edu.csus.ecs.pc2.api.ServerConnection.login (ServerConnection.java:158)
+|    at config.WebServer.verifyPC2ScoreboardLogin (Unknown Source)
+|    at config.WebServer.startServer (Unknown Source)
+|    at config.JettyConfig.main (Unknown Source)
+210808 134206.167|INFO|main|info|Unable to contact server at 10.0.3.175:0 Connection timed out (Connection timed out)
+210808 134206.167|SEVERE|main|fatalError|Unable to contact server at: 10.0.3.175:50002, contact staff
+|edu.csus.ecs.pc2.core.transport.TransportException: Connection timed out (Connection timed out)
+|    at edu.csus.ecs.pc2.core.transport.TransportManager.connectToMyServer (TransportManager.java:198)
+|    at edu.csus.ecs.pc2.core.transport.connection.ConnectionManager.connectToMyServer (ConnectionManager.java:100)
+|    at edu.csus.ecs.pc2.core.InternalController.start (InternalController.java:2895)
+|    at edu.csus.ecs.pc2.api.ServerConnection.login (ServerConnection.java:158)
+|    at config.WebServer.verifyPC2ScoreboardLogin (Unknown Source)
+|    at config.WebServer.startServer (Unknown Source)
+|    at config.JettyConfig.main (Unknown Source)

@@ -1,0 +1,75 @@
+201129 185052.629|CONFIG|main|setFileHandlers|Now logging to /usr/local/pc2/logs directory.
+201129 185052.647|FINE|main|verifyPC2ScoreboardLogin|Verifying PC2 scoreboard account login...
+201129 185052.651|FINE|main|verifyPC2ScoreboardLogin|Attempting to login to PC2 scoreboard account 'scoreboard5'
+201129 185053.345|FINE|main|verifyPC2ScoreboardLogin|Successfully logged in to PC2 scoreboard account
+201129 185053.347|INFO|main|startServer|Constructing Jetty service handlers
+201129 185053.516|INFO|main|startServer|Creating Jetty server
+201129 185053.527|INFO|main|startServer|Installing service handlers in Jetty
+201129 185053.528|INFO|main|startServer|Starting Jetty server
+201129 185419.801|CONFIG|main|setFileHandlers|Now logging to /usr/local/pc2/logs directory.
+201129 185419.831|FINE|main|verifyPC2ScoreboardLogin|Verifying PC2 scoreboard account login...
+201129 185419.836|FINE|main|verifyPC2ScoreboardLogin|Attempting to login to PC2 scoreboard account 'scoreboard5'
+201129 185420.513|FINE|main|verifyPC2ScoreboardLogin|Successfully logged in to PC2 scoreboard account
+201129 185420.515|INFO|main|startServer|Constructing Jetty service handlers
+201129 185420.703|INFO|main|startServer|Creating Jetty server
+201129 185420.714|INFO|main|startServer|Installing service handlers in Jetty
+201129 185420.714|INFO|main|startServer|Starting Jetty server
+201129 185506.889|INFO|qtp1823409783-23|login|Logged in: team1
+201129 185507.410|INFO|qtp1823409783-23|getTeamRuns|Returning 'OK' for team team1
+201129 185507.944|FINE|qtp1823409783-22|<init>|Constructing DSA for Contest Controller
+201129 185532.975|INFO|qtp1823409783-23|logout|Logged out team team1
+201129 185536.944|INFO|qtp1823409783-18|login|Login failed for team team1: Login denied Invalid password
+201129 185549.772|INFO|qtp1823409783-18|login|Login failed for team team1: Login denied Invalid password
+201129 185745.916|INFO|qtp1823409783-17|login|Login failed for team team1: Login denied Invalid password
+201129 190011.158|CONFIG|main|setFileHandlers|Now logging to /usr/local/pc2/logs directory.
+201129 190011.178|FINE|main|verifyPC2ScoreboardLogin|Verifying PC2 scoreboard account login...
+201129 190011.182|FINE|main|verifyPC2ScoreboardLogin|Attempting to login to PC2 scoreboard account 'scoreboard5'
+201129 190011.864|FINE|main|verifyPC2ScoreboardLogin|Successfully logged in to PC2 scoreboard account
+201129 190011.875|INFO|main|startServer|Constructing Jetty service handlers
+201129 190012.069|INFO|main|startServer|Creating Jetty server
+201129 190012.080|INFO|main|startServer|Installing service handlers in Jetty
+201129 190012.081|INFO|main|startServer|Starting Jetty server
+201130 165742.937|CONFIG|main|setFileHandlers|Now logging to /usr/local/pc2/logs directory.
+201130 165742.956|FINE|main|verifyPC2ScoreboardLogin|Verifying PC2 scoreboard account login...
+201130 165742.960|FINE|main|verifyPC2ScoreboardLogin|Attempting to login to PC2 scoreboard account 'scoreboard5'
+201130 165743.632|FINE|main|verifyPC2ScoreboardLogin|Successfully logged in to PC2 scoreboard account
+201130 165743.634|INFO|main|startServer|Constructing Jetty service handlers
+201130 165743.822|INFO|main|startServer|Creating Jetty server
+201130 165743.832|INFO|main|startServer|Installing service handlers in Jetty
+201130 165743.833|INFO|main|startServer|Starting Jetty server
+201130 180536.136|SEVERE|qtp934275857-71|login|TeamsController Login: 
+201130 181106.892|INFO|qtp934275857-58|login|Logged in: team1
+201130 181107.555|INFO|qtp934275857-71|getTeamRuns|Returning 'OK' for team team1
+201130 181107.623|FINE|qtp934275857-58|<init>|Constructing DSA for Contest Controller
+201130 181108.990|INFO|qtp934275857-81|login|Login failed for team team373: Login denied Invalid password
+201130 181204.063|INFO|qtp934275857-71|login|Login failed for team team1: Login denied Invalid password
+201130 181210.467|INFO|qtp934275857-95|logout|Logged out team team1
+201130 181215.965|INFO|qtp934275857-81|login|Logged in: team1
+201130 181216.119|INFO|qtp934275857-81|getTeamRuns|Returning 'OK' for team team1
+201130 181223.544|INFO|qtp934275857-95|login|Logged in: team1
+201130 181224.227|INFO|qtp934275857-71|getTeamRuns|Returning 'OK' for team team1
+201130 181232.043|INFO|qtp934275857-71|logout|Logged out team team1
+201130 181436.423|WARNING|qtp934275857-58|logout|NotLoggedIn exception trying to logoff team  from PC2 Server
+201130 210316.006|CONFIG|main|setFileHandlers|Now logging to /usr/local/pc2/logs directory.
+201130 210316.039|FINE|main|verifyPC2ScoreboardLogin|Verifying PC2 scoreboard account login...
+201130 210316.047|FINE|main|verifyPC2ScoreboardLogin|Attempting to login to PC2 scoreboard account 'scoreboard5'
+201130 210316.789|FINE|main|verifyPC2ScoreboardLogin|Successfully logged in to PC2 scoreboard account
+201130 210316.791|INFO|main|startServer|Constructing Jetty service handlers
+201130 210317.121|INFO|main|startServer|Creating Jetty server
+201130 210317.138|INFO|main|startServer|Installing service handlers in Jetty
+201130 210317.139|INFO|main|startServer|Starting Jetty server
+201224 152756.149|CONFIG|main|setFileHandlers|Now logging to /usr/local/pc2/logs directory.
+201224 152756.196|FINE|main|verifyPC2ScoreboardLogin|Verifying PC2 scoreboard account login...
+201224 152756.212|FINE|main|verifyPC2ScoreboardLogin|Attempting to login to PC2 scoreboard account 'scoreboard5'
+201224 152757.019|SEVERE|main|verifyPC2ScoreboardLogin|WTI Login failed for scoreboard account 'scoreboard5': Login denied No such account
+201224 152757.019|SEVERE|main|startServer|WTI server failed to login with PC2 Scoreboard account: edu.csus.ecs.pc2.api.exceptions.LoginFailureException: PC2 Scoreboard login failed
+201224 153730.130|CONFIG|main|setFileHandlers|Now logging to /usr/local/pc2/logs directory.
+201224 153730.169|FINE|main|verifyPC2ScoreboardLogin|Verifying PC2 scoreboard account login...
+201224 153730.178|FINE|main|verifyPC2ScoreboardLogin|Attempting to login to PC2 scoreboard account 'scoreboard5'
+201224 153730.945|SEVERE|main|verifyPC2ScoreboardLogin|WTI Login failed for scoreboard account 'scoreboard5': Login denied No such account
+201224 153730.946|SEVERE|main|startServer|WTI server failed to login with PC2 Scoreboard account: edu.csus.ecs.pc2.api.exceptions.LoginFailureException: PC2 Scoreboard login failed
+210808 133955.724|CONFIG|main|setFileHandlers|Now logging to /usr/local/pc2/logs directory.
+210808 133955.783|FINE|main|verifyPC2ScoreboardLogin|Verifying PC2 scoreboard account login...
+210808 133955.815|FINE|main|verifyPC2ScoreboardLogin|Attempting to login to PC2 scoreboard account 'scoreboard5'
+210808 134206.173|SEVERE|main|verifyPC2ScoreboardLogin|WTI Login failed for scoreboard account 'scoreboard5': Unable to contact server at 10.0.3.175:50002 (server not started?)
+210808 134206.175|SEVERE|main|startServer|WTI server failed to login with PC2 Scoreboard account: edu.csus.ecs.pc2.api.exceptions.LoginFailureException: PC2 Scoreboard login failed

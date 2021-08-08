@@ -1,0 +1,55 @@
+201129 185053.193|CONFIG|Thread-2|setFileHandlers|Now logging to /usr/local/pc2/logs directory.
+201129 185053.193|INFO|Thread-2|info|
+201129 185053.193|INFO|Thread-2|info|Version 9 () Java ver 11.0.8 build  Linux 5.4.0-1025-aws (amd64) 
+201129 185053.194|INFO|Thread-2|info|Login: scoreboard5 (aka scoreboard5)
+201129 185053.194|INFO|Thread-2|startLog|Working directory is /usr/local/pc2
+201129 185053.194|INFO|Thread-2|startLog|Process id is 14530@scoreboard3
+201129 185053.194|INFO|Thread-2|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+201129 185053.194|INFO|Thread-2|info|handlePacket end Packet[LOGIN_SUCCESS] #42 SERVER0 @ site 1 -> SCOREBOARD5 @ site 1
+201129 185053.194|INFO|Thread-2|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #42 SERVER0 @ site 1 -> SCOREBOARD5 @ site 1
+201129 185053.346|INFO|main|sendToLocalServer|Sending packet to server Packet[LOGOUT] #2 SCOREBOARD5 @ site 1 -> SERVER0 @ site 1
+201129 185053.347|INFO|main|sendToLocalServer|Sent    packet to server Packet[LOGOUT] #2 SCOREBOARD5 @ site 1 -> SERVER0 @ site 1
+201129 185420.369|CONFIG|Thread-2|setFileHandlers|Now logging to /usr/local/pc2/logs directory.
+201129 185420.369|INFO|Thread-2|info|
+201129 185420.369|INFO|Thread-2|info|Version 9 () Java ver 11.0.8 build  Linux 5.4.0-1025-aws (amd64) 
+201129 185420.369|INFO|Thread-2|info|Login: scoreboard5 (aka scoreboard5)
+201129 185420.369|INFO|Thread-2|startLog|Working directory is /usr/local/pc2
+201129 185420.370|INFO|Thread-2|startLog|Process id is 15909@scoreboard3
+201129 185420.370|INFO|Thread-2|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+201129 185420.370|INFO|Thread-2|info|handlePacket end Packet[LOGIN_SUCCESS] #47 SERVER0 @ site 1 -> SCOREBOARD5 @ site 1
+201129 185420.370|INFO|Thread-2|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #47 SERVER0 @ site 1 -> SCOREBOARD5 @ site 1
+201129 185420.514|INFO|main|sendToLocalServer|Sending packet to server Packet[LOGOUT] #2 SCOREBOARD5 @ site 1 -> SERVER0 @ site 1
+201129 185420.515|INFO|main|sendToLocalServer|Sent    packet to server Packet[LOGOUT] #2 SCOREBOARD5 @ site 1 -> SERVER0 @ site 1
+201129 190011.720|CONFIG|Thread-2|setFileHandlers|Now logging to /usr/local/pc2/logs directory.
+201129 190011.721|INFO|Thread-2|info|
+201129 190011.721|INFO|Thread-2|info|Version 9 () Java ver 11.0.8 build  Linux 5.4.0-1025-aws (amd64) 
+201129 190011.722|INFO|Thread-2|info|Login: scoreboard5 (aka scoreboard5)
+201129 190011.722|INFO|Thread-2|startLog|Working directory is /usr/local/pc2
+201129 190011.722|INFO|Thread-2|startLog|Process id is 18191@scoreboard3
+201129 190011.723|INFO|Thread-2|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+201129 190011.723|INFO|Thread-2|info|handlePacket end Packet[LOGIN_SUCCESS] #71 SERVER0 @ site 1 -> SCOREBOARD5 @ site 1
+201129 190011.723|INFO|Thread-2|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #71 SERVER0 @ site 1 -> SCOREBOARD5 @ site 1
+201129 190011.864|INFO|main|sendToLocalServer|Sending packet to server Packet[LOGOUT] #2 SCOREBOARD5 @ site 1 -> SERVER0 @ site 1
+201129 190011.865|INFO|main|sendToLocalServer|Sent    packet to server Packet[LOGOUT] #2 SCOREBOARD5 @ site 1 -> SERVER0 @ site 1
+201130 165743.447|CONFIG|Thread-2|setFileHandlers|Now logging to /usr/local/pc2/logs directory.
+201130 165743.447|INFO|Thread-2|info|
+201130 165743.447|INFO|Thread-2|info|Version 9 () Java ver 11.0.9.1 build  Linux 5.4.0-1025-aws (amd64) 
+201130 165743.447|INFO|Thread-2|info|Login: scoreboard5 (aka scoreboard5)
+201130 165743.448|INFO|Thread-2|startLog|Working directory is /usr/local/pc2
+201130 165743.448|INFO|Thread-2|startLog|Process id is 47921@scoreboard3
+201130 165743.448|INFO|Thread-2|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+201130 165743.448|INFO|Thread-2|info|handlePacket end Packet[LOGIN_SUCCESS] #81 SERVER0 @ site 1 -> SCOREBOARD5 @ site 1
+201130 165743.448|INFO|Thread-2|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #81 SERVER0 @ site 1 -> SCOREBOARD5 @ site 1
+201130 165743.633|INFO|main|sendToLocalServer|Sending packet to server Packet[LOGOUT] #2 SCOREBOARD5 @ site 1 -> SERVER0 @ site 1
+201130 165743.634|INFO|main|sendToLocalServer|Sent    packet to server Packet[LOGOUT] #2 SCOREBOARD5 @ site 1 -> SERVER0 @ site 1
+201130 210316.674|CONFIG|Thread-2|setFileHandlers|Now logging to /usr/local/pc2/logs directory.
+201130 210316.674|INFO|Thread-2|info|
+201130 210316.675|INFO|Thread-2|info|Version 9 () Java ver 11.0.9.1 build  Linux 5.4.0-1029-aws (amd64) 
+201130 210316.675|INFO|Thread-2|info|Login: scoreboard5 (aka scoreboard5)
+201130 210316.675|INFO|Thread-2|startLog|Working directory is /usr/local/pc2
+201130 210316.676|INFO|Thread-2|startLog|Process id is 573@scoreboard3
+201130 210316.676|INFO|Thread-2|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+201130 210316.677|INFO|Thread-2|info|handlePacket end Packet[LOGIN_SUCCESS] #119 SERVER0 @ site 1 -> SCOREBOARD5 @ site 1
+201130 210316.677|INFO|Thread-2|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #119 SERVER0 @ site 1 -> SCOREBOARD5 @ site 1
+201130 210316.790|INFO|main|sendToLocalServer|Sending packet to server Packet[LOGOUT] #2 SCOREBOARD5 @ site 1 -> SERVER0 @ site 1
+201130 210316.791|INFO|main|sendToLocalServer|Sent    packet to server Packet[LOGOUT] #2 SCOREBOARD5 @ site 1 -> SERVER0 @ site 1

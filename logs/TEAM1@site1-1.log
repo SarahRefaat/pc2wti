@@ -1,0 +1,9 @@
+201130 181215.483|CONFIG|Thread-106|setFileHandlers|Now logging to /usr/local/pc2/logs directory.
+201130 181215.483|INFO|Thread-106|info|
+201130 181215.483|INFO|Thread-106|info|Version 9 () Java ver 11.0.9.1 build  Linux 5.4.0-1025-aws (amd64) 
+201130 181215.483|INFO|Thread-106|info|Login: team1 (aka team1)
+201130 181215.483|INFO|Thread-106|startLog|Working directory is /usr/local/pc2
+201130 181215.484|INFO|Thread-106|startLog|Process id is 47921@scoreboard3
+201130 181215.484|INFO|Thread-106|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+201130 181215.485|INFO|Thread-106|info|handlePacket end Packet[LOGIN_SUCCESS] #105 SERVER0 @ site 1 -> TEAM1 @ site 1
+201130 181215.485|INFO|Thread-106|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #105 SERVER0 @ site 1 -> TEAM1 @ site 1
